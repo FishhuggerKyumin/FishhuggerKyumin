@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fishhuggerkyumin.github.io/fishhuggerkyumin//sitemap.xml
+Sitemap: https://fishhuggerkyumin.github.io/sitemap.xml
