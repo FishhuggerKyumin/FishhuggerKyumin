@@ -2,96 +2,89 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Kyumin Kim
     - name: Languages
-      value: English, German
+      value: Korean (Native), English (Fluent), Japanese (Fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. student
+      institution: University of California, Davis, CA
+      year: 2019 -  present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Studying in the Ph.D. program in Agricultural and Resource Economics
+        - title: Areas of emphasis and skills
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Environmental and natural resource economics
+            - Econometrics for policy evaluation
+            - Mathematical population biology
+            - Dynamic optimization
+    - title: M.S. in Marine Resource Management/Economics
+      institution: Pukyong National University, Busan, Korea
+      year: 2017-2019
+    - title: B.S. in Marine Resource Management/Economics 
+      institution: Pukyong National University, Busan, Korea
+      year: 2012-2017
+      description: 
+        - First-ranked student in the College of Fisheries Science at graduation.
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching Assistant (TA) / Graduate Student Researcher (GSR)
+      institution: Department of Agricultural and Resource Economics
+      year: 2019 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - TA for environmental economics, futures markets, and applied operations research classes
+        - title: GSR project
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Fisheries Diversification and Local Economics; Implications for Alaskan Fishing Communities
+            - Strategies for Balancing Long-run Tradeoffs in the Restoration of Kelp Forest and Coastal Economies in Northern California under Environmental Uncertainty
+
+    - title: Staff Researcher
+      institution: Korea Maritime Institute, Busan, South Korea
+      year: Feb.2019 - May 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Project - A Study for Building Sustainable Recreational Fishing Culture and the Development of Fishing Industries In Korea
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Graduate Research Assistant
+      institution: Pukyong National University, Busan, Korea
+      year: 2017-2019
       description:
+        - title: GSR projects
+          contents:
+            - An Analysis of the Effect of Closed Area/Season Policy for Commercial Fisheries Species and Total Allowable Catch (TAC)
+            - A Study on the Effect of Total Allowable Catch and Closed Area Policy for Fishing
+            - A Study of Effective Governmental Loans for Fisheries Production
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: World Bank Forum Coordinator
+      year: Sep. 2018
+      description: Coordinated a co-sponsored event between the World Bank and the Korea Maritime Institute; the “Fisheries Knowledge Exchange Program.”
 
-- title: Open Source Projects
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Grants and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2023 - 2025
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - North Pacific Research Board (NPRB) Graduate Student Research Award 
+    - year: 2022-2023
+      items: Jastro Research Fellowship
+    - year: 2020-2021
+      items: Ernest Hill Research Fellowship
+    - year: 2019-2020
+      items: GGE Fellowship
+    - year: 2018
+      items: Superior Graduate Student Research Scholarship (granted by Korea Student Aid Foundation)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Language learnings, Travel, Cooking, Video Game, Hiking

@@ -6,8 +6,10 @@ description: an example of a blog post with table of contents
 categories: sample-posts toc
 giscus_comments: true
 related_posts: false
+published: false
 toc:
   beginning: true
+  
 ---
 This post shows how to add a table of contents in the beginning of the post.
 
